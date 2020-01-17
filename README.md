@@ -9,8 +9,8 @@ A digital platform for renting and hosting storage spaces. This can be a basemen
 ![Screen Shot 2020-01-17 at 11 58 03](https://user-images.githubusercontent.com/54912285/72621778-a77dd600-3920-11ea-9bf0-1a52b1af3dd3.png)
 
 ## Purpose
-* Find a private storage space close by and store your belongings there. On average, private storage spaces are 50% cheaper than self-storage facilities and you can decide on the ideal location for your needs. Just enter your preferred location, an area or a zip code, and will take care of the rest
-* Earn an additional income per month by renting out your unused spaces. Use vacant spaces like a half-empty basement, a garage or a storage room and offer them for rent. For your privacy and to stay protected, your name and your full address will only become visible once a booking has been confirmed. Your safety is our top priority.
+* Find a private storage space close by and store your belongings there. On average, private storage spaces are 50% cheaper than self-storage facilities and you can decide on the ideal location for your needs. Just enter your preferred location, an area or a zip code, and find the right fit for you
+* Earn additional income per month by renting out your unused spaces. Use vacant spaces like a half-empty basement, a garage or a storage room and offer them for rent. For your privacy and to stay protected, your name and your full address will only become visible once a booking has been confirmed. Your safety is our top priority.
 
 
 ## Built With
@@ -21,7 +21,7 @@ To make this site we use:
 * JS ES6
 * Node.js
 * MongoDb
-* Authentication using passport for local stratagy and google strategy 
+* Authentication using passport for local strategy and google strategy 
 * Goolge Maps API
 * Axios 
 * Nodemailer
