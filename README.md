@@ -27,6 +27,7 @@ To make this site we use:
 * Nodemailer
 
 ## Future Improvements
+* Payment gateway
 * More features to user profile, like profile photo,
 * Dates and prices for rent some place 
 * F.A.Q 
